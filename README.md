@@ -1,6 +1,6 @@
 # knucklebones dice game
 
-knucklebones のゲーム実装試作
+[Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/?l=japanese) のゲーム中に登場するゲーム、 knucklebones のゲーム実装試作
 
 ```console
 $ dotnet run
